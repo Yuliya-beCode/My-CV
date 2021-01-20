@@ -18,4 +18,4 @@ Instructions
 - commit/push      
 - deploy on a Github page
 
-Please find my CV under the following [link](https://yuliya-becode.github.io/My-CV/.)
+Please find my CV under the following [link](https://yuliya-becode.github.io/My-CV/CV.html)
