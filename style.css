@@ -19,7 +19,7 @@
 .two {
   grid-area: 2/1/4/3;
   background-color: rgb(35, 35, 59);
-}
+  }
 .three {
     grid-area: 4/1/6/3;
   background-color:  rgb(35, 35, 59);
@@ -33,4 +33,8 @@ p {
 
 #foto {
    width: 250px;
+}
+
+p{
+    color: white;
 }
