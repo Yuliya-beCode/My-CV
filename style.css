@@ -2,9 +2,9 @@
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 20% 20% 20% 20% 20%;
   gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
+  grid-auto-rows: 20% 20% 20% 20% 20%;
   }
 
 .zero {
@@ -32,7 +32,7 @@ p {
 }
 
 #foto {
-   width: 250px;
+   width: 100%;
 }
 
 p{
@@ -41,4 +41,14 @@ p{
 
 h2{
     color: white;
+}
+
+.info {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+
+}
+
+.info p, h2{
+margin-left: 10px;
 }
