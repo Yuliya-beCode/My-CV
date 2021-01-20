@@ -2,7 +2,7 @@
 
 Curriculum vitae  
 
-TLearning objectives  
+Learning objectives  
 
 At the end of this challenge you should be able to:      
 - use the CSS grid system  
